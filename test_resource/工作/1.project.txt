@@ -1,0 +1,9 @@
+这是一个怎么怎么样的项目………………
+[ ] do this. ->@qqm @(50%)
+	[X] then do this. +@henry @(50%) @[ims.jpg,im.txt,im.doc]
+	[X] and this.
+	要做好
+		[ ] final @me
+[ ] and do this. important!!!. @(50%) 
+[x] this done. # My Tag # @(50%)
+
